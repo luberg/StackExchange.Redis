@@ -66,6 +66,7 @@
     <Compile Include="StackExchange\Redis\ClientType.cs" />
     <Compile Include="StackExchange\Redis\ExtensionMethods.cs" />
     <Compile Include="StackExchange\Redis\HashEntry.cs" />
+    <Compile Include="StackExchange\Redis\IConnectionMultiplexer.cs" />
     <Compile Include="StackExchange\Redis\InternalErrorEventArgs.cs" />
     <Compile Include="StackExchange\Redis\MigrateOptions.cs" />
     <Compile Include="StackExchange\Redis\LuaScript.cs" />
